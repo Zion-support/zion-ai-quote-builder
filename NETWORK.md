@@ -1,10 +1,17 @@
-# Zion AI Quote Builder
+# Zion AI Quote Builder — Zion App Network
 
-Instant AI-powered quote and proposal generation.
+Zion AI Quote Builder — instant AI-powered quote and proposal generator for IT hardware and services. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) · [zion-ai-rfp-responder](https://github.com/Zion-support/zion-ai-rfp-responder) · [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) · [zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) · [ai-tender-scout](https://github.com/Zion-support/ai-tender-scout)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-quote-builder/](https://ziontechgroup.com/zion-ai-quote-builder/)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Pricing Optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — dynamic pricing experiments
+- [Zion AI Procurement](https://github.com/Zion-support/zion-ai-procurement) — vendor evaluation and RFP drafting
+- [Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring) — AI lead scoring
+- [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) — cross-vendor part matching
+- [Zion AI Contract Guardian](https://github.com/Zion-support/zion-ai-contract-guardian) — SLA verification and renewals
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
